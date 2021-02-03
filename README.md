@@ -17,4 +17,6 @@ Send EPIC CASH to destination https://fastepic.eu and add in epic message your p
 From Stellar(EPIC asset) to EPIC CASH is simple too.
 Send EPIC to Stellar address GCXAJPJNTN7UQSQW6ZGEUE2Z7JNC2R2CGW4VXGITWFE6OWBPQZ5I2M57 with memo in which you insert your fastepic.eu account (keybaseid_yourusername) or registered in epic wallet (https://github.com/fastepic/epicwallet) externally address ( only name without https://fastepic.eu/).
 
+For Professional Developers - if you will use PathPaymentStricSend direct to Stellar address (GCXAJPJNTN7UQSQW6ZGEUE2Z7JNC2R2CGW4VXGITWFE6OWBPQZ5I2M57)   of bridge please use Minimum Destination Amount equal Receive Amount from PathFindStrictSend.
+
 
