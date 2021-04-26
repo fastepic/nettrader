@@ -9,6 +9,8 @@ This application can use externally addresses from epicwallet or fastepic keybas
 
 It helps use bridge between EPIC CASH blockchain and Stellar network. The bridge is 1:1 in both directions and no fees in this moment. Stellar network has very fast transactions ( about 5 seconds ) and is very, very cheap.
 
+Please only send whole numbers (1 2 3 44 345 9999) from epic cash to Stellar. The decimal point is removed.
+
 You can use EPIC CASH Stellar bridge direct:
 
 moving from EPIC CASH to EPIC on Stellar - is simple.
